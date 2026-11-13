@@ -1,0 +1,192 @@
+[
+  {
+    "href": "router-buying-guide.html",
+    "image": "xmtSgI4xZeg.jpg",
+    "category": "選購指南",
+    "group": "network",
+    "title": "Wi-Fi 路由器怎麼挑？買之前先避開這 6 個陷阱",
+    "description": "天線、坪數、Wi-Fi 世代到 Mesh 回程，買路由器前先問對問題。",
+    "popular": true,
+    "rank": 1,
+    "views": 598049,
+    "video_id": "xmtSgI4xZeg"
+  },
+  {
+    "href": "hinet-modem-router-setup.html",
+    "image": "6KR-hA_iURU.jpg",
+    "category": "光世代設定",
+    "group": "network",
+    "title": "光世代小烏龜接分享器：誰撥接、誰管網路，先分清楚",
+    "description": "小烏龜與分享器怎麼分工？從 PPPoE、雙重 NAT 到 AP 模式慢慢理清。",
+    "popular": true,
+    "rank": 2,
+    "views": 326087,
+    "video_id": "6KR-hA_iURU"
+  },
+  {
+    "href": "lan-wan-ports.html",
+    "image": "0EBoBzFc9Dk.jpg",
+    "category": "網路基礎",
+    "group": "network",
+    "title": "LAN 跟 WAN 差在哪？網路線插之前，先認得這兩個孔",
+    "description": "從外面進來的線，到家裡電腦和電視的線，一張圖看懂 LAN 與 WAN。",
+    "popular": true,
+    "rank": 3,
+    "views": 289868,
+    "video_id": "0EBoBzFc9Dk"
+  },
+  {
+    "href": "mi-box-s-apk-guide.html",
+    "image": "Au3WM6cK7ho.jpg",
+    "category": "電視盒與影音",
+    "group": "devices",
+    "title": "小米盒子 S 怎麼用？安裝 APK 前先弄懂這幾件事",
+    "description": "從遙控器操作、App 相容性到 APK 安裝，回顧小米盒子 S 的使用重點。",
+    "popular": true,
+    "rank": 4,
+    "views": 287676,
+    "video_id": "Au3WM6cK7ho"
+  },
+  {
+    "href": "m1-macbook-air-review.html",
+    "image": "0qwVDCiZMd4.jpg",
+    "category": "電腦與使用心得",
+    "group": "devices",
+    "title": "M1 MacBook Air 半年心得回顧：選電腦，先想清楚你要做什麼",
+    "description": "從容量、軟體相容性、外接螢幕到 Air／Pro 的選擇，整理舊片仍值得問的問題。",
+    "popular": true,
+    "rank": 5,
+    "views": 255381,
+    "video_id": "0qwVDCiZMd4"
+  },
+  {
+    "href": "access-point-vs-router.html",
+    "image": "lAdYvsvAGCg.jpg",
+    "category": "網路基礎",
+    "group": "network",
+    "title": "Wi-Fi AP 和無線路由器差在哪？先搞懂它們各自的工作",
+    "description": "AP 負責讓無線裝置接進來，路由器負責網路之間的連線；兩者常住在同一台盒子裡。",
+    "popular": true,
+    "rank": 6,
+    "views": 222143,
+    "video_id": "lAdYvsvAGCg"
+  },
+  {
+    "href": "aimesh-ethernet-backhaul.html",
+    "image": "aa6RVEqZpU0.jpg",
+    "category": "Mesh Wi-Fi",
+    "group": "network",
+    "title": "AiMesh 有線回程怎麼接？光世代、ZenWiFi 與交換器的分工",
+    "description": "先分清楚誰當主路由，再決定 Mesh 節點與交換器應該接在哪一邊。",
+    "popular": true,
+    "rank": 7,
+    "views": 178784,
+    "video_id": "aa6RVEqZpU0"
+  },
+  {
+    "href": "repeater-powerline-mesh.html",
+    "image": "RVd9ZJ3rF4c.jpg",
+    "category": "居家網路",
+    "group": "network",
+    "title": "中繼器、電力線、Mesh 怎麼選？先看網路要怎麼到房間",
+    "description": "三種延伸方式解決的問題不一樣，先看可不可以拉線，再看無線和電路條件。",
+    "popular": true,
+    "rank": 8,
+    "views": 157269,
+    "video_id": "RVd9ZJ3rF4c"
+  },
+  {
+    "href": "mango-travel-router.html",
+    "image": "YY8n5gG_QAs.jpg",
+    "category": "VPN 與旅行網路",
+    "group": "nas",
+    "title": "Mango 旅行路由器能做什麼？出門上網與 VPN 的實際分工",
+    "description": "把旅館網路接進自己的小網路；VPN 能做什麼、速度又受哪些環節限制？",
+    "popular": true,
+    "rank": 9,
+    "views": 135456,
+    "video_id": "YY8n5gG_QAs"
+  },
+  {
+    "href": "router-or-ap-mode.html",
+    "image": "ADWS_XhgdiI.jpg",
+    "category": "路由器設定",
+    "group": "network",
+    "title": "路由器模式還是 AP 模式？照你家的上網方式來選",
+    "description": "光世代、上游路由器、社區網路，三種情境不能只用同一套答案。",
+    "popular": true,
+    "rank": 10,
+    "views": 133830,
+    "video_id": "ADWS_XhgdiI"
+  },
+  {
+    "href": "wifi-slow.html",
+    "image": "HeYtiayRL6Y.jpg",
+    "category": "居家網路",
+    "title": "光纖升級了，家裡網路為什麼還是卡？",
+    "description": "明明升級了光纖，視訊還是會卡？從家裡的網路環境開始找原因。"
+  },
+  {
+    "href": "ssid-bytes.html",
+    "image": "vKM6FW5Yzfo.jpg",
+    "category": "Wi-Fi 基礎",
+    "title": "Wi-Fi 名稱最多 32 bytes：為什麼第 11 個「我」放不下？",
+    "description": "Wi-Fi 名稱不是算字數。用一個中文字，搞懂 32 bytes 的限制。"
+  },
+  {
+    "href": "wifi7-be.html",
+    "image": "asF14ir39nk.jpg",
+    "category": "選購指南",
+    "title": "Wi-Fi 7 的 BE3600、BE30000 到底代表什麼？",
+    "description": "盒子上的 BE 數字愈大就愈快？先弄懂它到底怎麼算。"
+  },
+  {
+    "href": "gigabit-wifi-tests.html",
+    "image": "C8NX2v12peY.jpg",
+    "category": "網路排查",
+    "title": "申辦 1G 網路，Wi-Fi 還是慢？先做這 3 次測試",
+    "description": "有線、路由器旁、卡頓的房間，三個位置測出網路差在哪裡。"
+  },
+  {
+    "href": "mesh-placement.html",
+    "image": "R7N158kmvD8.jpg",
+    "category": "Mesh Wi-Fi",
+    "title": "Mesh Wi-Fi 不是越多越快：節點怎麼擺才對？",
+    "description": "訊號不好的地方就放一台？節點的位置，其實比數量更重要。"
+  },
+  {
+    "href": "router-vs-switch.html",
+    "image": "7utji0MPUK0.jpg",
+    "category": "網路基礎",
+    "title": "路由器和交換器有什麼不同？家用網路怎麼選",
+    "description": "家裡網路孔不夠用，該買哪一台？先搞懂兩者分別做什麼。"
+  },
+  {
+    "href": "submarine-cable.html",
+    "image": "X3gUAlVrOGA.jpg",
+    "category": "網路原理",
+    "title": "海底電纜故障，台灣上網一定會變慢嗎？",
+    "description": "海纜故障會影響哪些連線？學會從家裡一路查到國際網路。"
+  },
+  {
+    "href": "nas-remote-access.html",
+    "image": "I8akenRI7bw.jpg",
+    "category": "NAS 與遠端存取",
+    "title": "NAS 遠端連線怎麼選？VPN、Tailscale、ZeroTier 入門",
+    "description": "人在外面也想連回家裡的 NAS，先認識幾種常見的連線方式。"
+  },
+  {
+    "href": "codex-video-workflow.html",
+    "image": "NzDDpgLxD00.jpg",
+    "category": "AI 工作流程",
+    "title": "用 Codex 協助剪影片：從素材索引到 QA 的工作流程",
+    "description": "從逐字稿、素材到剪輯檢查，看看 Wilson 怎麼讓 AI 參與製作。"
+  },
+  {
+    "href": "vpn-streaming.html",
+    "image": "MqZtYpppLoA.jpg",
+    "category": "網路原理",
+    "title": "VPN 為什麼能改變網站看到的位置？串流地區判斷入門",
+    "description": "連上 VPN 之後，網站看到的是哪裡？一次搞懂出口 IP 的角色。"
+  }
+]
