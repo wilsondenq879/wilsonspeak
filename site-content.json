@@ -1,5 +1,115 @@
 [
   {
+    "href": "home-bandwidth-planning.html",
+    "image": "ebBZM2SyQk4.jpg",
+    "category": "寬頻選擇",
+    "group": "network",
+    "title": "家裡網路要辦多快？先看同時在做什麼，不只數有幾支手機",
+    "description": "從同時使用、下載與上傳需求出發，挑符合生活的寬頻方案。",
+    "popular": false,
+    "latest": true,
+    "video_id": "ebBZM2SyQk4"
+  },
+  {
+    "href": "ping-jitter-packet-loss.html",
+    "image": "ammDzCbnoM0.jpg",
+    "category": "遊戲與網路",
+    "group": "network",
+    "title": "測速很快，打遊戲還是卡？看懂 Ping、抖動和丟包",
+    "description": "FPS、延遲、抖動、丟包分開看，先定位問題，再談加速。",
+    "popular": false,
+    "latest": true,
+    "video_id": "ammDzCbnoM0"
+  },
+  {
+    "href": "network-cabinet-wifi-layout.html",
+    "image": "7kRV5oj6yGk.jpg",
+    "category": "居家佈線",
+    "group": "network",
+    "title": "路由器要塞弱電箱嗎？新家網路先分清楚配線和 Wi-Fi",
+    "description": "弱電箱方便收線，無線訊號點則要看使用位置；把兩種工作分開規劃。",
+    "popular": false,
+    "latest": true,
+    "video_id": "7kRV5oj6yGk"
+  },
+  {
+    "href": "wifi-160mhz-channel-width.html",
+    "image": "i_gCsjohBY4.jpg",
+    "category": "Wi-Fi 規格",
+    "group": "network",
+    "title": "Wi-Fi 開 160 MHz 就會快一倍？先看裝置、頻道和環境",
+    "description": "頻道變寬提供更多傳輸機會，也要看終端支援、可用頻譜與穩定度。",
+    "popular": false,
+    "latest": true,
+    "video_id": "i_gCsjohBY4"
+  },
+  {
+    "href": "dual-band-tri-band-mesh.html",
+    "image": "Kb6pu3MLkB8.jpg",
+    "category": "Mesh Wi-Fi",
+    "group": "network",
+    "title": "Mesh 雙頻還是三頻？先看多出的頻段要拿來做什麼",
+    "description": "三頻的價值要放進回程與終端情境看，不能只比頻段數。",
+    "popular": false,
+    "latest": true,
+    "video_id": "Kb6pu3MLkB8"
+  },
+  {
+    "href": "gaming-nat-port-forwarding.html",
+    "image": "HXRxNkiot5s.jpg",
+    "category": "遊戲與路由器",
+    "group": "network",
+    "title": "遊戲配對失敗就要開 Port？先看 NAT 和連線方向",
+    "description": "開 Port 解決的是特定連入需求，先確認遊戲要求與上游環境，再設定。",
+    "popular": false,
+    "latest": true,
+    "video_id": "HXRxNkiot5s"
+  },
+  {
+    "href": "wpa2-wpa3-wifi-password.html",
+    "image": "Tiw_BffTknM.jpg",
+    "category": "Wi-Fi 安全",
+    "group": "network",
+    "title": "Wi-Fi 密碼設很長就夠了？WPA2、WPA3 和家電相容性一起看",
+    "description": "無線加密模式、密碼、設備更新各有角色，先確認相容性，再安排家用網路。",
+    "popular": false,
+    "latest": true,
+    "video_id": "Tiw_BffTknM"
+  },
+  {
+    "href": "nas-ssd-cache-explained.html",
+    "image": "Xg3O7hCKk98.jpg",
+    "category": "NAS 效能",
+    "group": "nas",
+    "title": "NAS 加 SSD 快取就會變快？先看你在讀什麼資料",
+    "description": "讀取模式、快取種類與網路瓶頸一起看，別只看到 M.2 插槽就下單。",
+    "popular": false,
+    "latest": true,
+    "video_id": "Xg3O7hCKk98"
+  },
+  {
+    "href": "nas-buying-checklist.html",
+    "image": "xAnlziyeROA.jpg",
+    "category": "NAS 選購",
+    "group": "nas",
+    "title": "第一次買 NAS，先問這六件事：不要只看幾 Bay 和容量",
+    "description": "從用途、套件、容量與備份規劃，找到適合自己的網路儲存設備。",
+    "popular": false,
+    "latest": true,
+    "video_id": "xAnlziyeROA"
+  },
+  {
+    "href": "ipad-mini-air-pro-use-cases.html",
+    "image": "DlWX6NYiJMI.jpg",
+    "category": "平板與使用情境",
+    "group": "devices",
+    "title": "iPad mini、Air、Pro 怎麼選？先拿你每天做的事來比",
+    "description": "從閱讀、畫圖、追劇和攜帶方式，回顧舊片仍值得問的選購問題。",
+    "popular": false,
+    "latest": true,
+    "video_id": "DlWX6NYiJMI"
+  },
+  {
     "href": "dns-speed-troubleshooting.html",
     "image": "Mk9rsBitJYU.jpg",
     "category": "網路排查",
@@ -7,7 +117,7 @@
     "title": "改 DNS 真的會變快嗎？先分清楚找網站慢，還是下載慢",
     "description": "DNS 負責查名字，寬頻負責傳資料。先分辨卡在哪一步，再決定要不要改。",
     "popular": false,
-    "latest": true,
+    "latest": false,
     "video_id": "Mk9rsBitJYU"
   },
   {
@@ -18,7 +128,7 @@
     "title": "明明辦了高速網路，卻卡在 100M？先檢查那條網路線",
     "description": "先看連線協商速度，再換線與換孔比較，找出有線路徑裡容易被忽略的瓶頸。",
     "popular": false,
-    "latest": true,
+    "latest": false,
     "video_id": "OFPSBm9vEV4"
   },
   {
@@ -29,7 +139,7 @@
     "title": "2.4 GHz 和 5 GHz 怎麼選？房間連得上，比只看格數更重要",
     "description": "距離、隔間、干擾和裝置支援一起看，選出你實際用起來比較穩的頻段。",
     "popular": false,
-    "latest": true,
+    "latest": false,
     "video_id": "ZC1kSTngQUc"
   },
   {
@@ -40,7 +150,7 @@
     "title": "電視盒 Wi-Fi 很弱，又不能拉線？把舊路由器當無線接收器",
     "description": "用 Media Bridge 接收上游 Wi-Fi，再以網路線連電視或電腦，先確認支援與擺位。",
     "popular": false,
-    "latest": true,
+    "latest": false,
     "video_id": "WNR4E1aPq0U"
   },
   {
@@ -51,7 +161,7 @@
     "title": "沒有光世代也能用分享器：手機 USB 網路共享怎麼接",
     "description": "先讓手機連上行動網路，再交給支援 USB 共享的路由器，家裡的裝置便能使用這條連線。",
     "popular": false,
-    "latest": true,
+    "latest": false,
     "video_id": "vggodlRC-l4"
   },
   {
@@ -64,7 +174,8 @@
     "popular": true,
     "rank": 1,
     "views": 598049,
-    "video_id": "xmtSgI4xZeg"
+    "video_id": "xmtSgI4xZeg",
+    "latest": false
   },
   {
     "href": "hinet-modem-router-setup.html",
@@ -76,7 +187,8 @@
     "popular": true,
     "rank": 2,
     "views": 326087,
-    "video_id": "6KR-hA_iURU"
+    "video_id": "6KR-hA_iURU",
+    "latest": false
   },
   {
     "href": "lan-wan-ports.html",
@@ -88,7 +200,8 @@
     "popular": true,
     "rank": 3,
     "views": 289868,
-    "video_id": "0EBoBzFc9Dk"
+    "video_id": "0EBoBzFc9Dk",
+    "latest": false
   },
   {
     "href": "mi-box-s-apk-guide.html",
@@ -100,7 +213,8 @@
     "popular": true,
     "rank": 4,
     "views": 287676,
-    "video_id": "Au3WM6cK7ho"
+    "video_id": "Au3WM6cK7ho",
+    "latest": false
   },
   {
     "href": "m1-macbook-air-review.html",
@@ -112,7 +226,8 @@
     "popular": true,
     "rank": 5,
     "views": 255381,
-    "video_id": "0qwVDCiZMd4"
+    "video_id": "0qwVDCiZMd4",
+    "latest": false
   },
   {
     "href": "access-point-vs-router.html",
@@ -124,7 +239,8 @@
     "popular": true,
     "rank": 6,
     "views": 222143,
-    "video_id": "lAdYvsvAGCg"
+    "video_id": "lAdYvsvAGCg",
+    "latest": false
   },
   {
     "href": "aimesh-ethernet-backhaul.html",
@@ -136,7 +252,8 @@
     "popular": true,
     "rank": 7,
     "views": 178784,
-    "video_id": "aa6RVEqZpU0"
+    "video_id": "aa6RVEqZpU0",
+    "latest": false
   },
   {
     "href": "repeater-powerline-mesh.html",
@@ -148,7 +265,8 @@
     "popular": true,
     "rank": 8,
     "views": 157269,
-    "video_id": "RVd9ZJ3rF4c"
+    "video_id": "RVd9ZJ3rF4c",
+    "latest": false
   },
   {
     "href": "mango-travel-router.html",
@@ -160,7 +278,8 @@
     "popular": true,
     "rank": 9,
     "views": 135456,
-    "video_id": "YY8n5gG_QAs"
+    "video_id": "YY8n5gG_QAs",
+    "latest": false
   },
   {
     "href": "router-or-ap-mode.html",
@@ -172,76 +291,87 @@
     "popular": true,
     "rank": 10,
     "views": 133830,
-    "video_id": "ADWS_XhgdiI"
+    "video_id": "ADWS_XhgdiI",
+    "latest": false
   },
   {
     "href": "wifi-slow.html",
     "image": "HeYtiayRL6Y.jpg",
     "category": "居家網路",
     "title": "光纖升級了，家裡網路為什麼還是卡？",
-    "description": "明明升級了光纖，視訊還是會卡？從家裡的網路環境開始找原因。"
+    "description": "明明升級了光纖，視訊還是會卡？從家裡的網路環境開始找原因。",
+    "latest": false
   },
   {
     "href": "ssid-bytes.html",
     "image": "vKM6FW5Yzfo.jpg",
     "category": "Wi-Fi 基礎",
     "title": "Wi-Fi 名稱最多 32 bytes：為什麼第 11 個「我」放不下？",
-    "description": "Wi-Fi 名稱不是算字數。用一個中文字，搞懂 32 bytes 的限制。"
+    "description": "Wi-Fi 名稱不是算字數。用一個中文字，搞懂 32 bytes 的限制。",
+    "latest": false
   },
   {
     "href": "wifi7-be.html",
     "image": "asF14ir39nk.jpg",
     "category": "選購指南",
     "title": "Wi-Fi 7 的 BE3600、BE30000 到底代表什麼？",
-    "description": "盒子上的 BE 數字愈大就愈快？先弄懂它到底怎麼算。"
+    "description": "盒子上的 BE 數字愈大就愈快？先弄懂它到底怎麼算。",
+    "latest": false
   },
   {
     "href": "gigabit-wifi-tests.html",
     "image": "C8NX2v12peY.jpg",
     "category": "網路排查",
     "title": "申辦 1G 網路，Wi-Fi 還是慢？先做這 3 次測試",
-    "description": "有線、路由器旁、卡頓的房間，三個位置測出網路差在哪裡。"
+    "description": "有線、路由器旁、卡頓的房間，三個位置測出網路差在哪裡。",
+    "latest": false
   },
   {
     "href": "mesh-placement.html",
     "image": "R7N158kmvD8.jpg",
     "category": "Mesh Wi-Fi",
     "title": "Mesh Wi-Fi 不是越多越快：節點怎麼擺才對？",
-    "description": "訊號不好的地方就放一台？節點的位置，其實比數量更重要。"
+    "description": "訊號不好的地方就放一台？節點的位置，其實比數量更重要。",
+    "latest": false
   },
   {
     "href": "router-vs-switch.html",
     "image": "7utji0MPUK0.jpg",
     "category": "網路基礎",
     "title": "路由器和交換器有什麼不同？家用網路怎麼選",
-    "description": "家裡網路孔不夠用，該買哪一台？先搞懂兩者分別做什麼。"
+    "description": "家裡網路孔不夠用，該買哪一台？先搞懂兩者分別做什麼。",
+    "latest": false
   },
   {
     "href": "submarine-cable.html",
     "image": "X3gUAlVrOGA.jpg",
     "category": "網路原理",
     "title": "海底電纜故障，台灣上網一定會變慢嗎？",
-    "description": "海纜故障會影響哪些連線？學會從家裡一路查到國際網路。"
+    "description": "海纜故障會影響哪些連線？學會從家裡一路查到國際網路。",
+    "latest": false
   },
   {
     "href": "nas-remote-access.html",
     "image": "I8akenRI7bw.jpg",
     "category": "NAS 與遠端存取",
     "title": "NAS 遠端連線怎麼選？VPN、Tailscale、ZeroTier 入門",
-    "description": "人在外面也想連回家裡的 NAS，先認識幾種常見的連線方式。"
+    "description": "人在外面也想連回家裡的 NAS，先認識幾種常見的連線方式。",
+    "latest": false
   },
   {
     "href": "codex-video-workflow.html",
     "image": "NzDDpgLxD00.jpg",
     "category": "AI 工作流程",
     "title": "用 Codex 協助剪影片：從素材索引到 QA 的工作流程",
-    "description": "從逐字稿、素材到剪輯檢查，看看 Wilson 怎麼讓 AI 參與製作。"
+    "description": "從逐字稿、素材到剪輯檢查，看看 Wilson 怎麼讓 AI 參與製作。",
+    "latest": false
   },
   {
     "href": "vpn-streaming.html",
     "image": "MqZtYpppLoA.jpg",
     "category": "網路原理",
     "title": "VPN 為什麼能改變網站看到的位置？串流地區判斷入門",
-    "description": "連上 VPN 之後，網站看到的是哪裡？一次搞懂出口 IP 的角色。"
+    "description": "連上 VPN 之後，網站看到的是哪裡？一次搞懂出口 IP 的角色。",
+    "latest": false
   }
 ]
