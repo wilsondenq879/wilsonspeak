@@ -1,5 +1,60 @@
 [
   {
+    "href": "dns-speed-troubleshooting.html",
+    "image": "Mk9rsBitJYU.jpg",
+    "category": "網路排查",
+    "group": "network",
+    "title": "改 DNS 真的會變快嗎？先分清楚找網站慢，還是下載慢",
+    "description": "DNS 負責查名字，寬頻負責傳資料。先分辨卡在哪一步，再決定要不要改。",
+    "popular": false,
+    "latest": true,
+    "video_id": "Mk9rsBitJYU"
+  },
+  {
+    "href": "ethernet-cable-bottleneck.html",
+    "image": "OFPSBm9vEV4.jpg",
+    "category": "有線網路",
+    "group": "network",
+    "title": "明明辦了高速網路，卻卡在 100M？先檢查那條網路線",
+    "description": "先看連線協商速度，再換線與換孔比較，找出有線路徑裡容易被忽略的瓶頸。",
+    "popular": false,
+    "latest": true,
+    "video_id": "OFPSBm9vEV4"
+  },
+  {
+    "href": "wifi-24ghz-vs-5ghz.html",
+    "image": "ZC1kSTngQUc.jpg",
+    "category": "Wi-Fi 基礎",
+    "group": "network",
+    "title": "2.4 GHz 和 5 GHz 怎麼選？房間連得上，比只看格數更重要",
+    "description": "距離、隔間、干擾和裝置支援一起看，選出你實際用起來比較穩的頻段。",
+    "popular": false,
+    "latest": true,
+    "video_id": "ZC1kSTngQUc"
+  },
+  {
+    "href": "media-bridge-for-tv.html",
+    "image": "WNR4E1aPq0U.jpg",
+    "category": "電視盒與網路",
+    "group": "network",
+    "title": "電視盒 Wi-Fi 很弱，又不能拉線？把舊路由器當無線接收器",
+    "description": "用 Media Bridge 接收上游 Wi-Fi，再以網路線連電視或電腦，先確認支援與擺位。",
+    "popular": false,
+    "latest": true,
+    "video_id": "WNR4E1aPq0U"
+  },
+  {
+    "href": "phone-usb-router-internet.html",
+    "image": "vggodlRC-l4.jpg",
+    "category": "行動網路與備援",
+    "group": "network",
+    "title": "沒有光世代也能用分享器：手機 USB 網路共享怎麼接",
+    "description": "先讓手機連上行動網路，再交給支援 USB 共享的路由器，家裡的裝置便能使用這條連線。",
+    "popular": false,
+    "latest": true,
+    "video_id": "vggodlRC-l4"
+  },
+  {
     "href": "router-buying-guide.html",
     "image": "xmtSgI4xZeg.jpg",
     "category": "選購指南",
