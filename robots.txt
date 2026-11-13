@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wilsondenq879.github.io/wilsonspeak/sitemap.xml
